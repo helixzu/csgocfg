@@ -1,7 +1,7 @@
 # csgocfg
 
-<p>An advanced Counter-Strike: Global Offensive config.
-Easy to modify to suit your play style. And no, this will not get you VAC banned...</p>
+An advanced Counter-Strike: Global Offensive config.
+Easy to modify to suit your play style. And no, this will not get you VAC banned...
 
 **Features:**
 * Viewmodel changer
