@@ -18,10 +18,11 @@ Once in CS:GO, in console, type `exec /xzu/xzu.cfg`
 # Usage
 
 Most of the config is controlled via the console.
-If the "sv_cheats" value is set to "1" it means the command will only work on servers that have it enabled, otherwise you may use the command anywhere.
+If the "sv_cheats" value is set to "1" it means the command will only work on servers that have it enabled, otherwise you may use the command anywhere. Alot of the commands will automatically set the value to "1" if you have permission to do so (Server admin / Host)
 
 command | explanation | sv_cheats
 --------|-------------|------------
 `hands` | Quickly change your viewmodel on the go, instructions are displayed in console once the command is executed | 0
 `a`     | Reload the config / Reset to default | 0
+`kz`    | Launch a local server with KZ settings | 0
 `m9`    | Give yourself an M9 Bayonet | 1
