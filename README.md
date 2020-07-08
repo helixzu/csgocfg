@@ -27,7 +27,7 @@ If the "sv_cheats" value is set to "1" it means the command will only work on se
 command | explanation | sv_cheats
 --------|-------------|------------
 `a`        | Reload the config / Reset to default | 0
-`features` |
+`features` | Display the features of the current version in console
 `hands`    | Quickly change your viewmodel on the go, instructions are displayed in console once the command is executed | 0
 `kz`       | Launch a local server with KZ settings | 0
 `vkz`      | Launch a local server with VKZ settings | 0
