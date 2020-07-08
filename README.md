@@ -1,4 +1,4 @@
-# csgocfg
+# XZU.cfg Documentation
 
 An advanced Counter-Strike: Global Offensive config.
 Easy to modify to suit your play style. And no, this will not get you VAC banned...
@@ -10,10 +10,14 @@ Easy to modify to suit your play style. And no, this will not get you VAC banned
 
 **coming soon:**
 * Quick rebind
+* Easy install "Installing has never been easier, simply run the "winInstall.bat" and it will place all the neccercery files in the correct place.
+Once in CS:GO, in console, type `exec /xzu/xzu.cfg`"
 
 # Installation
-Installing has never been easier, simply run the "winInstall.bat" and it will place all the neccercery files in the correct place.
-Once in CS:GO, in console, type `exec /xzu/xzu.cfg`
+1. Download the files
+2. Extract the "xzu" folder to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+3. Either set `exec xzu/xzu.cfg` in your CS:GOs launch options or `exec xzu/xzu.cfg` in console once CS:GO is loaded.
+4. Profit
 
 # Usage
 
