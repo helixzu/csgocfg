@@ -13,6 +13,11 @@ Easy to modify to suit your play style. And no, this will not get you VAC banned
 * Quick rebind
 * Easy install.bat
 
+# Remarks
+This config is based around U,H,J,K movement rather than W,A,S,D. Therefore most binds seem wierd. you can change the base binds yourslef in the "xzu.cfg" file.<br>
+or learn to play with U,H,J,K as I highly recommend for right handed mouse players.
+**note that "quick rebind" will eventually be added to make the process of switching over easier.**
+
 # Installation
 1. Download the files
 2. Extract the "xzu" folder to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
